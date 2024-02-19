@@ -3,17 +3,7 @@
 三沙卫视,http://121.15.212.66:8888/newlive/live/hls/48/live.m3u8
 东方卫视,http://61.49.105.238:8888/newlive/live/hls/20/live.m3u8
 云南卫视,http://61.49.105.238:8888/newlive/live/hls/27/live.m3u8
-北京卫视,http://61.49.105.238:8888/newlive/live/hls/19/live.m3u8
-北京影视,http://61.49.105.238:8888/newlive/live/hls/42/live.m3u8
-纪实科教,http://61.49.105.238:8888/newlive/live/hls/43/live.m3u8
-北京生活,http://61.49.105.238:8888/newlive/live/hls/44/live.m3u8
-北京财经,http://61.49.105.238:8888/newlive/live/hls/45/live.m3u8
-北京文艺,http://61.49.105.238:8888/newlive/live/hls/46/live.m3u8
-卡酷少儿,http://61.49.105.238:8888/newlive/live/hls/47/live.m3u8
-卡酷少儿,http://121.15.212.66:8888/newlive/live/hls/47/live.m3u8
-北京国际,http://61.49.105.238:8888/newlive/live/hls/48/live.m3u8
-华数1,http://61.49.105.238:8888/newlive/live/hls/51/live.m3u8
-华数2,http://61.49.105.238:8888/newlive/live/hls/57/live.m3u8
+华数,http://61.49.105.238:8888/newlive/live/hls/51/live.m3u8
 吉林卫视,http://61.49.105.238:8888/newlive/live/hls/35/live.m3u8
 吉林卫视,http://121.15.212.66:8888/newlive/live/hls/31/live.m3u8
 四川卫视,http://61.49.105.238:8888/newlive/live/hls/32/live.m3u8
@@ -55,6 +45,16 @@
 海南卫视,http://121.15.212.66:8888/newlive/live/hls/46/live.m3u8
 兵团卫视,http://121.15.212.66:8888/newlive/live/hls/45/live.m3u8
 内蒙古卫视,http://121.15.212.66:8888/newlive/live/hls/44/live.m3u8
+🇨🇳北京地方,#genre#
+北京卫视,http://61.49.105.238:8888/newlive/live/hls/19/live.m3u8
+北京影视,http://61.49.105.238:8888/newlive/live/hls/42/live.m3u8
+纪实科教,http://61.49.105.238:8888/newlive/live/hls/43/live.m3u8
+北京生活,http://61.49.105.238:8888/newlive/live/hls/44/live.m3u8
+北京财经,http://61.49.105.238:8888/newlive/live/hls/45/live.m3u8
+北京文艺,http://61.49.105.238:8888/newlive/live/hls/46/live.m3u8
+卡酷少儿,http://61.49.105.238:8888/newlive/live/hls/47/live.m3u8
+卡酷少儿,http://121.15.212.66:8888/newlive/live/hls/47/live.m3u8
+北京国际,http://61.49.105.238:8888/newlive/live/hls/48/live.m3u8
 🇨🇳央视频道,#genre#
 CCTV1,http://61.49.105.238:8888/newlive/live/hls/2/live.m3u8
 CCTV2,http://61.49.105.238:8888/newlive/live/hls/3/live.m3u8
@@ -109,9 +109,7 @@ NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/
 NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2614190807_1624483481/ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8?icpid=3&RTS=1674387024&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
-
 🎞️电影联通线路,#genre#
-
 华语经典,http://epg.112114.xyz/douyu/434971
 华语电影,http://epg.112114.xyz/douyu/3928
 吃米滴虫,http://epg.112114.xyz/douyu/315457
@@ -152,7 +150,6 @@ NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw261
 连续剧3,http://epg.112114.xyz/douyu/7476264
 看剧,http://epg.112114.xyz/douyu/431460
 武侠剧,http://epg.112114.xyz/douyu/7655471
-
 🌍海外频道,#genre#
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 俄罗斯,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
