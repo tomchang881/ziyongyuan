@@ -1,4 +1,5 @@
 🇨🇳卫视频道,#genre#
+熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,http://121.15.212.66:8888/newlive/live/hls/48/live.m3u8
 东方卫视,http://61.49.105.238:8888/newlive/live/hls/20/live.m3u8
