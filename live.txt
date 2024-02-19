@@ -109,7 +109,9 @@ NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/
 NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2614190807_1624483481/ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8?icpid=3&RTS=1674387024&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
+
 🎞️电影联通线路,#genre#
+
 华语经典,http://epg.112114.xyz/douyu/434971
 华语电影,http://epg.112114.xyz/douyu/3928
 吃米滴虫,http://epg.112114.xyz/douyu/315457
@@ -150,7 +152,9 @@ NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw261
 连续剧3,http://epg.112114.xyz/douyu/7476264
 看剧,http://epg.112114.xyz/douyu/431460
 武侠剧,http://epg.112114.xyz/douyu/7655471
+
 🌍海外频道,#genre#
+
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 俄罗斯,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 俄罗斯,https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
@@ -172,6 +176,7 @@ CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 MyTime movie,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.to
 MyTime movie,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 埃及 Mokameleen TV,http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
+
 🇨🇳河南地方,#genre#
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0acb8e4d015e27644df4c6187d128309&wsTime=1708332915
 新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=9bc9e46594a1196c8e9de629ef2db06f&wsTime=1708332915
