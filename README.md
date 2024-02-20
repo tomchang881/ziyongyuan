@@ -4,7 +4,7 @@ IPTV_LIVE
 https://github.com/mengzehe/TVBox
 TVBOX接口在线解密：https://www.lige.fit/ua
 
-配置说明：
+#配置说明：
 （1）ck.json 网络收集的多人配置文件；
 
 （2）xiaoya.json 网络收集的小雅等网盘仓库配置文件；
