@@ -16,7 +16,7 @@ TVBOX接口在线解密：https://www.lige.fit/ua
 https://gh.tomlink.xyz/https://github.com/用户名/仓库名/raw/main/接口文件
 # TVBOX官网下载地址
 http://tvbox.clbug.com/
-# g各位大佬的TVBOX配置,伸手党直接用就是,很简单.
+# g各位大佬的TVBOX配置,直接食用.
 （1）唐三：https://hutool.ml/tang
 
 （2）Fongmi：https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
