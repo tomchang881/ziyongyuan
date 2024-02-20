@@ -12,4 +12,6 @@ TVBOX接口在线解密：https://www.lige.fit/ua
 （3）live.txt 网络收集的用于 TVbox 软件的电视直播源；
 
 （4）livecangku.json 网络收集的用于 TVbox 软件的电视直播源汇总；
+# Github RAW 加速地址
+https://gh.tomlink.xyz/https://github.com/用户名/仓库名/raw/main/接口文件
 
