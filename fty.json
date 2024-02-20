@@ -14,7 +14,7 @@
       "filterable": 0
     },
     {
-      "key": "Czsapp",
+      "key": "汤姆小屋",
       "name": "汤姆小屋┃直连",
       "type": 3,
       "api": "http://blog.tomlink.xyz/api.php/provide/vod/at/xml/",
