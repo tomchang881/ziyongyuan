@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "公众号┃汤姆小屋",
+      "name": "公众号┃温暖的影视小屋",
       "type": 3,
       "api": "https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/lib/drpy2.min.js",
       "searchable": 1,
