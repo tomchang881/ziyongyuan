@@ -11,6 +11,7 @@
 吉林卫视,http://61.49.105.238:8888/newlive/live/hls/35/live.m3u8
 四川卫视,http://121.15.212.66:8888/newlive/live/hls/28/live.m3u8
 四川卫视,http://61.49.105.238:8888/newlive/live/hls/32/live.m3u8
+天津卫视,http://121.15.212.66:8888/newlive/live/hls/40/live.m3u8
 天津卫视,http://121.15.212.66:8888/newlive/live/hls/36/live.m3u8
 天津卫视,http://61.49.105.238:8888/newlive/live/hls/40/live.m3u8
 宁夏卫视,http://121.15.212.66:8888/newlive/live/hls/35/live.m3u8
@@ -50,7 +51,6 @@
 江西卫视,http://121.15.212.66:8888/newlive/live/hls/37/live.m3u8
 大湾区卫视,http://121.15.212.66:8888/newlive/live/hls/38/live.m3u8
 辽宁卫视,http://121.15.212.66:8888/newlive/live/hls/39/live.m3u8
-天津卫视,http://121.15.212.66:8888/newlive/live/hls/40/live.m3u8
 黑龙江卫视,http://121.15.212.66:8888/newlive/live/hls/41/live.m3u8
 山西卫视,http://121.15.212.66:8888/newlive/live/hls/43/live.m3u8
 东南卫视,http://121.15.212.66:8888/newlive/live/hls/50/live.m3u8
