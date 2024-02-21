@@ -5,6 +5,16 @@
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
+      "key": "豆瓣",
+      "name": "公众号┃汤姆小屋",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/js/douban.js"
+    },
+    {
       "key": "豆豆",
       "name": "老张祝大家新春快乐龙年大吉",
       "type": 3,
@@ -266,7 +276,7 @@ E0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/lib/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
     },
     {
@@ -331,7 +341,7 @@ E0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/lib/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js",
       "style": {
         "type": "list"
@@ -344,7 +354,7 @@ E0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
       "key": "310js",
       "name": "⚽310┃看球",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/lib/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js",
       "style": {
         "type": "list"
@@ -370,7 +380,7 @@ E0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
       "key": "酷奇js",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/lib/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
       "style": {
         "type": "rect",
@@ -418,7 +428,7 @@ E0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/lib/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/huyazhibo.js",
       "style": {
         "type": "rect",
@@ -433,7 +443,7 @@ E0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/lib/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
       "style": {
         "type": "rect",
@@ -448,7 +458,7 @@ E0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
       "key": "聚短视频js",
       "name": "📽️聚短┃视频",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/lib/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
@@ -458,7 +468,7 @@ E0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/lib/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
       "style": {
         "type": "rect",
@@ -919,11 +929,7 @@ $qqq111"
     {
       "name": "SAO0",
       "type": 0,
-      "url": 
-
-"https://gh.tomlink.xyz/https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/live
-
-.txt",
+      "url": "https://gh.tomlink.xyz/https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
