@@ -920,7 +920,7 @@ $qqq111"
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://gh.tomlink.xyz/https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/live.txt",
+      "url": "https://raw.githubusercontent.com/tomchang881/ziyongyuan/main/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
