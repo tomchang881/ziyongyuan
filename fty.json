@@ -24,15 +24,15 @@
       "filterable": 0
     },
     {
-      "key": "汤姆小屋",
-      "name": "汤姆小屋┃直连",
+      "key": "温暖的影视小屋",
+      "name": "温暖的影视小屋┃直连",
       "type": 1,
-      "api": "http://blog.tomlink.xyz/api.php/provide/vod/",
+      "api": "http://tv.tomlink.xyz/api.php/provide/vod/",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://blog.tomlink.xyz/"
+      "ext": "https://tv.tomlink.xyz/"
     },
     {
       "key": "玩偶哥哥",
