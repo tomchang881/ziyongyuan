@@ -159,8 +159,23 @@ CHC动作电影,
 幸福剧场HD,http://111.196.131.100:4022/# rtp/239.3.1.112:8001
 淘娱乐HD,http://111.196.131.100:4022/rtp/239.3.1.100:8001
 幸福娱乐HD,http://111.196.131.100:4022/# rtp/239.3.1.113:8001
-CHC动作电影,
-CHC家庭影院,
+CHC动作电影,http://112.235.200.18:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://112.235.200.134:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://112.235.202.123:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://112.235.200.44:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://112.235.200.218:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://112.235.200.218:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://112.235.200.18:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://112.235.200.44:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://112.235.200.72:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://112.235.200.134:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC电影,http://112.235.202.123:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC电影,http://112.235.200.18:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC电影,http://112.235.200.44:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC电影,http://112.235.200.72:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC电影,http://112.235.200.134:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC电影,http://112.235.200.183:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC电影,http://112.235.200.218:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC高清电影,
 CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
