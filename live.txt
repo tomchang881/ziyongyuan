@@ -142,6 +142,8 @@ CGTN,http://61.49.105.238:8888/newlive/live/hls/18/live.m3u8
 军事,http://111.196.131.100:4022/rtp/239.3.1.76:4120
 军旅剧场,http://111.196.131.100:4022/rtp/239.3.1.68:4120
 古装剧场,http://111.196.131.100:4022/rtp/239.3.1.69:4120
+
+🇨🇳影院剧场,#genre#
 华数,http://61.49.105.238:8888/newlive/live/hls/51/live.m3u8
 华数,http://111.196.131.100:4022/rtp/239.3.1.94:4120
 动作影院,http://111.196.131.100:4022/rtp/239.3.1.92:4120
@@ -179,6 +181,7 @@ CHC电影,http://112.235.200.218:9901/tsfile/live/1012_1.m3u8?key=txiptv&playliv
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC高清电影,
 CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+🇨🇳港澳台,#genre#
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
