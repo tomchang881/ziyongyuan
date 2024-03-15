@@ -62,12 +62,12 @@
 
 
 🇨🇳北京地方,#genre#
-北京卫视,http://121.15.212.66:8888/newlive/live/hls/15/live.m3u8
-北京卫视,http://111.196.131.100:4022/rtp/239.3.1.241:8000
-北京卫视,http://61.49.105.238:8888/newlive/live/hls/19/live.m3u8
+BRTV卫视,http://121.15.212.66:8888/newlive/live/hls/15/live.m3u8
+BRTV卫视,http://111.196.131.100:4022/rtp/239.3.1.241:8000
+BRTV卫视,http://61.49.105.238:8888/newlive/live/hls/19/live.m3u8
 北京新闻,http://111.196.131.100:4022/rtp/239.3.1.159:8000
-北京影视,http://61.49.105.238:8888/newlive/live/hls/42/live.m3u8
-北京影视,http://111.196.131.100:4022/rtp/239.3.1.158:8000
+BRTV影视,http://61.49.105.238:8888/newlive/live/hls/42/live.m3u8
+BRTV影视,http://111.196.131.100:4022/rtp/239.3.1.158:8000
 纪实科教,http://61.49.105.238:8888/newlive/live/hls/43/live.m3u8
 纪实科教,http://111.196.131.100:4022/rtp/239.3.1.115:8000
 北京生活,http://61.49.105.238:8888/newlive/live/hls/44/live.m3u8
@@ -101,10 +101,10 @@ CCTV4,http://111.196.131.100:4022/rtp/239.3.1.105:8092
 CCTV4,http://61.49.105.238:8888/newlive/live/hls/5/live.m3u8
 CCTV5,http://61.49.105.238:8888/newlive/live/hls/6/live.m3u8
 CCTV5,http://111.196.131.100:4022/rtp/239.3.1.173:8001
-体育赛事,http://61.49.105.238:8888/newlive/live/hls/7/live.m3u8
-体育赛事,http://111.196.131.100:4022/rtp/239.3.1.157:8176
+CCTV5+,http://61.49.105.238:8888/newlive/live/hls/7/live.m3u8
+CCTV5+,http://111.196.131.100:4022/rtp/239.3.1.157:8176
 CCTV5+,http://111.196.131.100:4022/rtp/239.3.1.130:8004
-CCTV6-,http://61.49.105.238:8888/newlive/live/hls/8/live.m3u8
+CCTV6,http://61.49.105.238:8888/newlive/live/hls/8/live.m3u8
 CCTV6,http://111.196.131.100:4022/rtp/239.3.1.174:8001
 CCTV7,http://121.15.212.66:8888/newlive/live/hls/6/live.m3u8
 CCTV7,http://61.49.105.238:8888/newlive/live/hls/9/live.m3u8
